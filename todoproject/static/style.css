@@ -1,0 +1,19 @@
+.banner {
+background-color:Plum;
+width:100%;
+height:200px;
+margin-bottom:70px;
+
+}
+
+.banner-text {
+top:10%;
+left:47%;
+position:absolute;
+transform:transform;
+font-family:Times;
+color:DarkRed;
+
+}
+
+
